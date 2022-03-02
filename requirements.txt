@@ -1,0 +1,7 @@
+flask
+PIL
+time
+jsonify
+requests
+os
+BotNulis.py
