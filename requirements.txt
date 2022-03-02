@@ -1,7 +1,5 @@
 flask
-PIL
-time
+request
 jsonify
-requests
+time
 os
-BotNulis.py
