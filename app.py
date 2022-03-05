@@ -43,3 +43,7 @@ if not date:
 bot = BotNulis(text, int(mpaper), int(pfont), header, date)
 result = bot.start()
 return jsonify(result)
+
+if __name__ == '__main__':
+    app.debug=True
+    app.run(host='0.0.0.0',port=5000)     
