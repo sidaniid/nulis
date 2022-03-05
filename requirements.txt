@@ -1,2 +1,8 @@
 flask
-jsonify
+gunicorn
+BotNulis
+Image
+ImageDraw
+ImageFont
+time
+render_template
