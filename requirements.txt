@@ -1,3 +1,13 @@
 flask
 gunicorn
 Image
+render_template
+request
+jsonify
+BotNulis
+Image
+ImageDraw
+ImageFont
+time
+requests
+os
