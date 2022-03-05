@@ -1,7 +1,5 @@
 flask
 gunicorn
 Image
-ImageDraw
-ImageFont
 time
 render_template
