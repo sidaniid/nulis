@@ -1,6 +1,5 @@
 flask
 gunicorn
-BotNulis
 Image
 ImageDraw
 ImageFont
